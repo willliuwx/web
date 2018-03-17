@@ -4,3 +4,6 @@
 2. 修改df.properties中的mysql.password，redis.password，mail.password为您个人的配置。
 3. 修改com/fc/util/MyConstant.java，将七牛云的相关配置改为您的个人配置。
 4. 此项目为初学者练手项目，仅为交流，有什么错误希望大家能指出，在此感谢。
+
+
+test-kristy
